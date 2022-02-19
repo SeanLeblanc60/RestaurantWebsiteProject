@@ -259,6 +259,7 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
 
 /*Beginning of Sean's Code*/
 .preamble p{
@@ -268,9 +269,7 @@ textarea {
   display: block;
 }
 
-  .title{
-    display:flex;
-    align-items:center;
+  .res-title{
+    display: flex;
+    justify-content: center;
   }
-}
-
