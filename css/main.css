@@ -273,3 +273,8 @@ textarea {
     display: flex;
     justify-content: center;
   }
+
+  .res-tag{
+    display: flex;
+    justify-content: center;
+  }
