@@ -269,6 +269,11 @@ textarea {
   display: block;
 }
 
+img {
+  width: 100%;
+  height: 40%;
+}
+
   .res-title{
     display: flex;
     justify-content: center;
@@ -277,4 +282,62 @@ textarea {
   .res-tag{
     display: flex;
     justify-content: center;
+  }
+
+  .dining-options-nav {
+    padding: 8px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+  }
+
+  .lunch-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .lunch-pics-and-description {
+    display: flex;
+    gap: 20px;
+  }
+
+  .dinner-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .dinner-pics-and-description {
+    display: flex;
+    gap: 20px;
+  }
+
+  .apetizer-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .apetizer-pics-and-description {
+    display: flex;
+    gap: 20px;
+  }
+
+  .side-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .side-pics-and-description {
+    display: flex;
+    gap: 20px;
+  }
+
+  .drink-head{
+    display: flex;
+    justify-content: center;
+  }
+
+  .drink-pics-and-description {
+    display: flex;
+    gap: 20px;
   }
