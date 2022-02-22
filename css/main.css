@@ -313,6 +313,7 @@ img {
     display: flex;
     gap: 20px;
     justify-content: center;
+    padding: 20px 50px;
   }
 
   .apetizer-head{
@@ -324,6 +325,7 @@ img {
     display: flex;
     gap: 20px;
     justify-content: center;
+    padding: 20px 50px;
   }
 
   .side-head{
@@ -335,6 +337,7 @@ img {
     display: flex;
     gap: 20px;
     justify-content: center;
+    padding: 20px 50px;
   }
 
   .drink-head{
@@ -346,6 +349,7 @@ img {
     display: flex;
     gap: 20px;
     justify-content: center;
+    padding: 20px 50px;
   }
 
   .information {
