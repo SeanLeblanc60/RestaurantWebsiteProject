@@ -271,7 +271,7 @@ textarea {
 
 img {
   width: 100%;
-  height: 40%;
+  height: 300px;
 }
 
   .res-title{
@@ -285,7 +285,7 @@ img {
   }
 
   .dining-options-nav {
-    padding: 8px;
+    padding: 10px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -300,6 +300,8 @@ img {
   .lunch-pics-and-description {
     display: flex;
     gap: 20px;
+    justify-content: center;
+    padding: 20px 50px;
   }
 
   .dinner-head{
@@ -310,6 +312,7 @@ img {
   .dinner-pics-and-description {
     display: flex;
     gap: 20px;
+    justify-content: center;
   }
 
   .apetizer-head{
@@ -320,6 +323,7 @@ img {
   .apetizer-pics-and-description {
     display: flex;
     gap: 20px;
+    justify-content: center;
   }
 
   .side-head{
@@ -330,6 +334,7 @@ img {
   .side-pics-and-description {
     display: flex;
     gap: 20px;
+    justify-content: center;
   }
 
   .drink-head{
@@ -340,16 +345,16 @@ img {
   .drink-pics-and-description {
     display: flex;
     gap: 20px;
+    justify-content: center;
   }
 
   .information {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
   }
 
   .information-nav {
     display: flex;
     gap: 20px;
-    align-items: center;
   }
