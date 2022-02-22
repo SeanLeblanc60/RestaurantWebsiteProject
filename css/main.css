@@ -277,6 +277,7 @@ img {
   .res-title{
     display: flex;
     justify-content: center;
+    color: black;
   }
 
   .res-tag{
