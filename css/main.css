@@ -276,6 +276,13 @@ img {
   height: 300px;
 }
 
+.profile-img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
 .button {
   border-radius: 50px;
   color: black;
